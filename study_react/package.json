@@ -8,12 +8,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "history": "^3.0.0",
+    "object-assign": "^4.1.0",
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-dom": "^15.1.0",
+    "react-redux": "~4.4.5",
+    "react-router": "^2.4.1",
+    "redux": "~3.5.2"
   },
   "devDependencies": {
     "source-map-loader": "^0.1.5",
-    "ts-loader": "^0.8.2"
+    "ts-loader": "^0.8.2",
+    "redux-devtools": "~3.3.1"
   },
   "description": ""
 }
